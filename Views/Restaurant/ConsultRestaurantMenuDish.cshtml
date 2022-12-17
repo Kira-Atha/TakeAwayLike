@@ -1,0 +1,86 @@
+﻿@model ASP_PROJECT.ViewModels.ListRestaurantsViewModel
+@using Microsoft.AspNetCore.Http
+
+@if ((string)TempData["ErreurAjout"] != "" && TempData["ErreurAjout"] != null)
+{
+    <div class="alert alert-danger">
+        <p>@TempData["ErreurAjout"]</p>
+    </div>
+}
+@if((string)TempData["ItemAdded"] != "" && TempData["ItemAdded"] != null)
+{
+    <div class="alert alert-success">
+        <p>Vous avez ajouté un @TempData["ItemAdded"] dans votre panier</p>
+    </div>
+}
+<form method="POST" asp-controller="Restaurant" asp-action="ConsultAll">
+    <table class="table">
+        <tr><h3>Informations restaurant</h3></tr>
+        <tr>
+            <th>Nom</th>
+            <th>Type</th>
+            <th>Description</th>
+            <th>Adresse</th>
+            <th>N° TVA</th>
+            <th>Jours</th>
+            <th>Ouverture</th>
+            <th>Fermeture</th>
+            <partial name="_RestaurantAllInformationPartial.cshtml" for="@Model.Resto" />
+        </tr>
+    </table>
+    <table class="table">
+        <tr>
+            <h3>MENU</h3>
+            @if (Context.Session.GetString("restorerConnected") == "true")
+            {
+                <a class="btn btn-outline-primary pb-1" asp-controller="Menu" asp-action="Add" asp-route-dishOrMenu="true">Ajouter un menu</a>
+            }
+        </tr>
+        @if (Model.SelectedListMenus.Count > 0)
+        {
+            <tr>
+                <th>Nom
+                <th>Description</th>
+                <th>Type de service</th>
+                <th>Prix</th>
+                <th>Contenu</th>
+            </tr>
+            @foreach (var item in Model.SelectedListMenus)
+            {
+                <partial name="_RestaurantMenusPartial.cshtml" for="@item" />
+            }
+        }
+    </table>
+    <table class="table">
+        <tr>
+            <h3>PLATS</h3>
+            @if (Context.Session.GetString("restorerConnected") == "true")
+            {
+                <a class="btn btn-outline-primary pb-1" asp-controller="Menu" asp-action="Add" asp-route-dishOrMenu="false">Ajouter un plat</a>
+            }
+        </tr>
+        @if (Model.SelectedListDish.Count > 0)
+        {
+            <tr>
+                <th>Nom</th>
+                <th>Type</th>
+                <th>Type de service</th>
+                <th>Description</th>
+                <th>Prix</th>
+            </tr>
+            @foreach (var item in Model.SelectedListDish)
+            {
+                <partial name="_RestaurantDishesPartial.cshtml" for="@item" />
+            }
+        }
+    </table>
+</form>
+@if (Context.Session.GetString("customerConnected") == "true")
+{
+    <a class="btn btn-primary" asp-controller="Restaurant" asp-action="ConsultRestaurant">Retour</a>
+}
+@if (Context.Session.GetString("restorerConnected") == "true")
+{
+    <a class="btn btn-primary" asp-controller="Restaurant" asp-action="ConsultRestorerRestaurants">Retour</a>
+
+}

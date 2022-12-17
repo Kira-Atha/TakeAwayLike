@@ -1,0 +1,19 @@
+﻿<h2>Inscription : </h2>
+<form method="post">
+    <div class="row">
+        <div class="card col-6" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Restorateur</h5>
+                <p class="card-text">Vous pouvez créer un compte de restorateur afin de pouvoir enregistrer vos restaurants et pouvoir vendre vos plats et menus.</p>
+                <input type="submit" class="btn btn-primary" asp-action="Inscription" asp-route-type="restorer" value="Créer un compte" />
+            </div>
+        </div>
+        <div class="card col-6" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Client</h5>
+                <p class="card-text">Créez votre compte en tant que client afin de pouvoir commander dans vos restaurants favoris.</p>
+                <input type="submit" class="btn btn-primary" asp-action="Inscription" asp-route-type="customer" value="Créer un compte" />
+            </div>
+        </div>
+    </div>
+</form>

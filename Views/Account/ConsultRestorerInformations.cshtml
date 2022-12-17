@@ -1,0 +1,67 @@
+﻿@model ASP_PROJECT.Models.POCO.Restorer
+
+<div>
+    <table class="table">
+        <tr>
+            <th>Prénom</th>
+            <th>Nom</th>
+            <th>Email</th>
+            <th>Genre</th>
+            <th>Adresse</th>
+            <th>Ville</th>
+            <th>Pays</th>
+            <th>Code Postal</th>
+            <th>Téléphone</th>
+        </tr>
+        <tr>
+            <td>
+                <p>@Model.Firstname</p>
+            </td>
+            <td>
+                <p>@Model.Lastname</p>
+            </td>
+            <td>
+                <p>@Model.Email</p>
+            </td>
+            <td>
+                <p>@Model.Gender.ToString()</p>
+            </td>
+            <td>
+                <p>@Model.Address</p>
+            </td>
+            <td>
+                <p>@Model.City</p>
+            </td>
+            <td>
+                <p>@Model.Country</p>
+            </td>
+            <td>
+                <p>@Model.Pc</p>
+            </td>
+            <td>
+                <p>@Model.Tel</p>
+            </td>
+            <td>
+                <a class="btn btn-outline-secondary" asp-controller="Account" asp-action="ModifyRestorerInformations" asp-route-RestorerEmail="@Model.Email">Modifier</a>
+            </td>
+        </tr>
+    </table>
+    @if (!String.IsNullOrEmpty((string)TempData["AccountModifications"]))
+    {
+        if ((string)TempData["AccountModifications"] == "success")
+        {
+            <div class="m-2 alert alert-success">
+                <p>Modification effectuée avec succès</p>
+            </div>
+        }
+    }
+    <div class="row">
+        <div class="card col-12" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Consulter vos restaurants</h5>
+                <p class="card-text">Vous pouvez consulter la liste de vos restaurants</p>
+                <a class="btn btn-outline-primary" asp-controller="Restaurant" asp-action="ConsultRestorerRestaurants" asp-route-restorerId="@Model.Id">Consulter</a>
+            </div>
+        </div>
+    </div>
+</div>

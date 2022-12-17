@@ -1,0 +1,122 @@
+﻿@model ASP_PROJECT.ViewModels.MenuAndDishViewModel
+@using Microsoft.AspNetCore.Http
+@{
+    int RestaurantId = (int)Context.Session.GetInt32("restaurantId");
+}
+
+@if (Model.DishOrMenu == true) {
+    <h1>Modifier un menu</h1>
+    <form class="row g-3" asp-controller="Menu" method="post">
+        <div class="col-md-12">
+            n° @Model.Menu.Id
+        </div>
+            <div class="col-md-12">
+                <label for="name" class="form-label" asp-for="Menu.Name"></label>
+                <input class="form-control" id="name" asp-for="Menu.Name">
+                <span asp-validation-for="Menu.Name" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label for="desccription" class="form-label" asp-for="Menu.Description"></label>
+                <textarea class="form-control" id="description" asp-for="Menu.Description"></textarea>
+                <span asp-validation-for="Menu.Name" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label for="price" class="form-label" asp-for="Menu.Price"></label>
+                <input class="form-control" id="price" asp-for="Menu.Price">
+                <span asp-validation-for="Menu.Price" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label for="firstname" class="form-label" asp-for="Menu.Service"></label>
+                <select id="inputState" class="form-select m-2" select asp-for="Menu.Service" asp-items="Model.TypeService"></select>
+            </div>
+            <div class="col-md-12">
+                <label class="form-label">Liste des plats :</label>
+                <ul class="list-group">
+                    @foreach (var item in Model.Menu.DishList) {
+                        <li class="list-group-item">@item.Name <input type="submit" class="btn btn-outline-danger" asp-action="DeleteDishFromMenu" asp-route-DishId="@item.Id" asp-route-menu="@Model.Menu" asp-route-operation="modifying" value="X" /></li>
+                    }
+                </ul>
+            </div>
+            <div class="col-md-12">
+                <table class="table">
+                    <tr>
+                        <th>Nom</th>
+                        <th>Description</th>
+                        <th>Type</th>
+                        <th>Service</th>
+                        <th>Price</th>
+                    </tr>
+                    @foreach (var item in Model.Dlist) {
+                        <tr>
+                            <td>@item.Name</td>
+                            <td>@item.Description</td>
+                            <td>@item.ConvertDishType()</td>
+                            <td>@item.ConvertTypeService()</td>
+                            <td>@item.Price €</td>
+                            <td>
+                                <input type="submit" class="btn btn-outline-primary" asp-action="AddDishToMenu" asp-route-DishId="@item.Id" asp-route-vm="@Model.Menu" asp-route-operation="modifying" value="Ajouter au menu" />
+                            </td>
+                        </tr>
+                    }
+                </table>
+            </div>
+            <div class="col-6">
+                <a class="btn btn-primary" asp-controller="Restaurant" asp-action="ConsultAll" asp-route-restaurantId="@RestaurantId">Annuler</a>
+            </div>
+            <div class="col-6">
+                <input type="submit" class="btn btn-outline-primary mt-2" asp-action="Update" asp-route-meal="@Model.Menu"/>
+            </div>
+    </form>
+}
+@if (Model.DishOrMenu == false) {
+    <h1>Modifier le  plat</h1>
+    <div>
+        <form class="row g-3" asp-controller="Menu" method="post">
+            <div class="col-md-12">
+                n° @Model.Dish.Id
+            </div>
+            <div class="col-md-12">
+                <label for="firstname" class="form-label" asp-for="Dish.Name"></label>
+                <input class="form-control" id="firstname" asp-for="Dish.Name">
+                <span asp-validation-for="Dish.Name" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label for="firstname" class="form-label" asp-for="Dish.Description"></label>
+                <textarea class="form-control" id="firstname" asp-for="Dish.Description"></textarea>
+                <span asp-validation-for="Dish.Name" class="text-danger"></span>
+            </div>
+            <div class="col-md-12">
+                <label for="firstname" class="form-label" asp-for="Dish.Price"></label>
+                <input class="form-control" id="firstname" asp-for="Dish.Price">
+                <span asp-validation-for="Dish.Price" class="text-danger"></span>
+            </div>
+            <div class="col-md-6">
+                <label for="firstname" class="form-label" asp-for="Dish.Type"></label>
+                <select id="inputState" class="form-select m-2" asp-for="Dish.Type" asp-items="Model.TypeDish"></select>
+            </div>
+            <div class="col-md-6">
+                <label for="firstname" class="form-label" asp-for="Dish.Service"></label>
+                <select id="inputState" class="form-select m-2" asp-for="Dish.Service" asp-items="Model.TypeService"></select>
+            </div>
+            <div class="col-6">
+                <a class="btn btn-primary" asp-controller="Restaurant" asp-action="ConsultAll" asp-route-restaurantId="@RestaurantId">Annuler</a>
+            </div>
+            <div class="col-6">
+                <input type="submit" class="btn btn-outline-primary mt-2" asp-action="Update" value="Modifier" asp-route-meal="@Model.Dish"/>
+            </div>
+        </form>
+        @if (!String.IsNullOrEmpty((string)ViewData["Updating"])) {
+
+            @if ((string)TempData["Updating"] == "error") {
+                <div class="padding:10">
+                    <span class="alert alert-danger border border-danger">Modification échouée</span>
+                </div>
+            }
+            @if ((string)TempData["Updating"] == "invalid") {
+                <div class="padding:10">
+                    <span class="alert alert-danger border border-danger">Formulaire mal rempli</span>
+                </div>
+            }
+        }
+    </div>
+}

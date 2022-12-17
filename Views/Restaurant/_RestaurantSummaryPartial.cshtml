@@ -1,0 +1,17 @@
+﻿@model ASP_PROJECT.Models.POCO.Restaurant
+@using Microsoft.AspNetCore.Http
+
+<tr>
+    <td>@Model.Name</td>
+    <td>@Model.ConvertRestaurantType()</td>
+    <td>@Model.Description</td>
+
+    <td>
+        <a class="btn btn-outline-primary" asp-action="ConsultAll" asp-route-restaurantId="@Model.Id">Carte</a>
+        @if (Context.Session.GetString("restorerConnected") == "true")
+        {
+            <a class="btn btn-outline-primary" asp-controller="Order" asp-action="ConsultRestaurantOrders" asp-route-restoId="@Model.Id">Commandes</a>
+
+        }
+    </td>
+</tr>

@@ -1,0 +1,16 @@
+﻿@model ASP_PROJECT.Models.POCO.Order
+
+<h4>Modifier le statut de la commande :</h4>
+<p>Commande numéro : @Model.Id</p>
+<p>Date de la commande : @Model.DateOrder.ToString("dd-MM-yyyy")</p>
+<form method="POST" asp-action="ValidateUpdatingOrderStatus">
+    <select class="form-select" aria-label="Default select example" asp-for="Status">
+        <option value="0">Validée</option>
+        <option value="1">En préparation</option>
+        <option value="2">Terminée</option>
+    </select>
+    <br />
+    <a class="btn btn-primary mt-2" asp-action="ConsultRestaurantOrders" asp-route-restoId="@Model.Restaurant.Id">Retour</a>
+    <input type="submit" class="btn btn-outline-primary mt-2" value="Modifier" />
+</form>
+

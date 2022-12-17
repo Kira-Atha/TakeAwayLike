@@ -1,0 +1,16 @@
+﻿@model ASP_PROJECT.ViewModels.MenuAndDishViewModel
+
+<tr>
+    <td>@Model.Dish.Name</td>
+    <td>@Model.Dish.Description</td>
+    <td>@Model.Dish.ConvertDishType()</td>
+    <td>@Model.Dish.ConvertTypeService()</td>
+    <td>@Model.Dish.Price €</td>
+    <td>
+        <a asp-controller="Menu" asp-action="Update">Modifier</a>
+    </td>
+    <td>
+        <a asp-controller="Menu" asp-action="Delete">Supprimer</a>
+    </td>
+</tr>
+

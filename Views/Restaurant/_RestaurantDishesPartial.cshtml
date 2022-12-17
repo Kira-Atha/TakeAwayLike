@@ -1,0 +1,20 @@
+﻿@model ASP_PROJECT.Models.POCO.Dish
+@using Microsoft.AspNetCore.Http
+<tr>
+    <td>@Model.Name</td>
+    <td>@Model.ConvertTypeService()</td>
+    <td>@Model.ConvertDishType()</td>
+    <td>@Model.Description</td>
+    <td>@Model.Price €</td>
+    @if (Context.Session.GetString("customerConnected") == "true") {
+        <td><a class="btn btn-outline-primary" asp-controller="Order" asp-action="AddDishToCart" asp-route-dishId="@Model.Id">Ajouter au panier</a></td>
+    }
+    @if (Context.Session.GetString("restorerConnected") == "true") {
+        <td>
+            <a class="btn btn-outline-primary" asp-controller="Menu" asp-action="Update" asp-route-dishOrMenu="false" asp-route-menuID="0" asp-route-dishID="@Model.Id">Modifier</a>
+        </td>
+        <td>
+            <a class="btn btn-outline-danger" asp-controller="Menu" asp-action="Delete" asp-route-dishOrMenu="false" asp-route-menuID="0" asp-route-dishID="@Model.Id">Supprimer</a>
+        </td>
+    }
+</tr>

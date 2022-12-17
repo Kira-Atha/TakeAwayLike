@@ -1,0 +1,85 @@
+﻿@model ASP_PROJECT.Models.POCO.Customer
+
+@{
+    ViewData["Title"] = "Inscription d'un client.";
+}
+<h1>@ViewData["Title"]</h1>
+@if ((string)TempData["Message"] == "State1") {
+    <div class="alert-danger">
+        <p> Un compte existe déjà avec cet email.</p>
+    </div>
+}
+
+<form class="row g-3" asp-controller="Account" method="post" asp-action="CustomerRegister">
+    <div class="col-md-6">
+        <label for="firstname" class="form-label" asp-for="Firstname"></label>
+        <input class="form-control" id="firstname" asp-for="Firstname">
+        <span asp-validation-for="Firstname" class="text-danger"></span>
+    </div>
+    <div class="col-md-6">
+        <label for="lastname" class="form-label" asp-for="Lastname"></label>
+        <input class="form-control" id="lastname" asp-for="Lastname">
+        <span asp-validation-for="Lastname" class="text-danger"></span>
+
+    </div>
+    <div class="col-md-12">
+        <label for="dob" class="form-label" asp-for="DoB"></label>
+        <input class="form-control" id="dob" asp-for="DoB">
+        <span asp-validation-for="DoB" class="text-danger"></span>
+
+    </div>
+    <div class="col-md-6">
+        <label for="email" asp-for="Email" class="form-label"></label>
+        <input class="form-control" id="email" asp-for="Email">
+        <span asp-validation-for="Email" class="text-danger"></span>
+
+    </div>
+    <div class="col-md-6">
+        <label for="password" class="form-label" asp-for="Password"></label>
+        <input class="form-control" id="password" asp-for="Password">
+        <span asp-validation-for="Password" class="text-danger"></span>
+
+    </div>
+    <div class="col-12">
+        <label for="inputAddress" class="form-label" asp-for="Address"></label>
+        <input class="form-control" id="inputAddress"  asp-for="Address">
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+    <div class="col-md-4">
+        <label for="inputCity" class="form-label" asp-for="City"></label>
+        <input class="form-control" id="inputCity" asp-for="City">
+        <span asp-validation-for="City" class="text-danger"></span>
+
+    </div>
+    <div class="col-md-2">
+        <label for="inputPc" class="form-label" asp-for="Pc"></label>
+        <input class="form-control" id="inputPc" asp-for="Pc">
+        <span asp-validation-for="Pc" class="text-danger"></span>
+
+    </div>
+    <div class="col-md-6">
+        <label for="country" class="form-label" asp-for="Country"></label>
+        <input class="form-control" id="country" asp-for="Country">
+        <span asp-validation-for="Country" class="text-danger"></span>
+
+    </div>
+    <div class="col-md-4">
+        <label for="inputState" class="form-label" asp-for="Gender"></label>
+        <select id="inputState" class="form-select m-2" asp-for="Gender">
+            <option value="M">Homme</option>
+            <option value="F">Femme</option>
+        </select>
+    </div>
+    <div class="col-md-6">
+        <label for="Tel" class="form-label" asp-for="Tel"></label>
+        <input class="form-control" id="Tel" asp-for="Tel">
+        <span asp-validation-for="Tel" class="text-danger"></span>
+
+    </div>
+    <div class="col-6">
+        <a class="btn btn-primary" asp-controller="Account" asp-action="Inscription">Annuler</a>
+    </div>
+    <div class="col-6">
+        <input type="submit" class="mt-2 btn btn-outline-primary" />
+    </div>
+</form>

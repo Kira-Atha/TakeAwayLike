@@ -1,0 +1,37 @@
+﻿@model ASP_PROJECT.Models.POCO.Order
+
+
+<td>
+    @Model.Id
+</td>
+<td>
+    @Model.DeliveryAdress
+</td>
+<td>
+    @Model.DateOrder.Day/@Model.DateOrder.Month/@Model.DateOrder.Year
+</td>
+<td>
+    @Model.TotalPrice €
+</td>
+<td>
+    @if (Model.Note != null)
+    {
+        <p>@Model.Note</p>
+    }
+    @if(Model.Note == null)
+    { 
+        <p>\</p>
+    }
+</td>
+<td>
+    <ul>
+        @foreach (var meal in Model.ListMealOrdered)
+        {
+            <li>@meal.Name</li>
+        }
+    </ul>
+</td>
+<td>
+    <label>@Model.ConvertOrderStatus()</label>
+</td>
+

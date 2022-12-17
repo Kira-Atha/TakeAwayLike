@@ -1,0 +1,13 @@
+﻿@model ASP_PROJECT.Models.POCO.Dish
+
+<tr>
+    <td>@Model.Name</td>
+    <td>@Model.Description</td>
+    <td>@Model.ConvertDishType()</td>
+    <td>@Model.ConvertTypeService()</td>
+    <td>@Model.Price €</td>
+    <td>
+        <a asp-controller="Menu" asp-action="AddDishToMenu" asp-route-DishId="@Model.Id">Ajouter au menu</a>
+    </td>
+</tr>
+

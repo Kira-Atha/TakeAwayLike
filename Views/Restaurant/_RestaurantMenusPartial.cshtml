@@ -1,0 +1,28 @@
+﻿@model ASP_PROJECT.Models.POCO.Menu
+@using Microsoft.AspNetCore.Http
+<tr>
+    <td>@Model.Name</td>
+    <td>@Model.Description</td>
+    <td>@Model.ConvertTypeService()</td>
+    <td>@Model.Price €</td>
+    <td>
+        @foreach (var item in Model.DishList)
+        {
+            <partial name="/Views/Menu/_DishesInMenuPartial.cshtml" for="@item" />
+        }
+    </td>
+    @if (Context.Session.GetString("customerConnected") == "true")
+    {
+        <td><a class="btn btn-outline-primary" asp-controller="Order" asp-action="AddMenuToCart" asp-route-menuId="@Model.Id">Ajouter au panier</a></td>
+    }
+
+    @if (Context.Session.GetString("restorerConnected") == "true")
+    {
+        <td>
+            <a class="btn btn-outline-primary" asp-controller="Menu" asp-action="Update" asp-route-dishOrMenu="true" asp-route-menuID="@Model.Id" asp-route-dishID="0">Modifer</a>
+        </td>
+        <td>
+           <a  class="btn btn-outline-danger" asp-controller="Menu" asp-action="Delete" asp-route-dishOrMenu="true" asp-route-menuID="@Model.Id" asp-route-dishID="0">Supprimer</a>
+        </td>
+    }
+</tr>

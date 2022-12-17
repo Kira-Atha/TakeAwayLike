@@ -1,0 +1,29 @@
+﻿.grid-container {
+    display: grid;
+    grid-template-areas:
+        'title title account'
+        'adding adding'
+        'menus dishes';
+    background-color: #2196F3;
+    padding: 10px;
+}
+
+.item1 {
+    grid-area: title;
+}
+
+.item2 {
+    grid-area: adding;
+}
+
+.item3 {
+    grid-area: menu;
+}
+
+.item4 {
+    grid-area: dishes;
+}
+
+
+
+

@@ -1,0 +1,41 @@
+﻿@model ASP_PROJECT.Models.POCO.Restaurant
+@{ 
+    List<string> DayOfWeek = new List<string>()
+    {
+        "Lundi",
+        "Mardi",
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi",
+        "Dimanche"
+    };
+}
+
+<tr>
+    <td>@Model.Name</td>
+    <td>@Model.Type</td>
+    <td>@Model.Description</td>
+    <td>@Model.Address @Model.City @Model.Pc @Model.Country</td>
+    <td>@Model.NumTVA</td>
+    <td>
+        @foreach (var day in DayOfWeek)
+        {
+            <p>@day</p>
+        }
+    </td>
+    <td>
+
+        @foreach (var open in Model.OpeningsTimes)
+        {
+            <p>@open.ToString("HH:mm")</p>
+        }
+    </td>
+    <td>
+        @foreach (var close in Model.CloseTimes)
+        {
+            <p>@close.ToString("HH:mm")</p>
+        }
+    </td>
+</tr>
+

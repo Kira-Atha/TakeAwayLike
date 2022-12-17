@@ -1,0 +1,20 @@
+﻿@model ASP_PROJECT.ViewModels.MenuAndDishViewModel
+
+<tr>
+    <td>@Model.Menu.Name</td>
+    <td>@Model.Menu.Description</td>
+    <td>@Model.Menu.ConvertTypeService()</td>
+    <td>@Model.Menu.Price €</td>
+    <td>
+        @foreach (var item in Model.Menu.DishList)
+        {
+            <partial name="_DishesInMenuPartial.cshtml" for="@item" />
+        }
+    </td>
+    <td>
+        <a asp-controller="Menu" asp-action="Update">Modifer</a>
+    </td>
+    <td>
+        <a asp-controller="Menu" asp-action="Delete">Supprimer</a>
+    </td>
+</tr>

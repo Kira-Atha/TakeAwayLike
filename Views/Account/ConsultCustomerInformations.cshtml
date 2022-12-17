@@ -1,0 +1,70 @@
+﻿@model ASP_PROJECT.Models.POCO.Customer
+
+<div>
+    @if (!String.IsNullOrEmpty((string)TempData["AccountModifications"]))
+    {
+        if ((string)TempData["AccountModifications"] == "success")
+        {
+            <div class="m-2 alert alert-success">
+                <p>Modification effectuée avec succès</p>
+            </div>
+        }
+    }
+    <table class="table">
+        <tr>
+            <th>Prénom</th>
+            <th>Nom</th>
+            <th>Email</th>
+            <th>Genre</th>
+            <th>Date de naissance</th>
+            <th>Adresse</th>
+            <th>Ville</th>
+            <th>Pays</th>
+            <th>Code Postal</th>
+            <th>Téléphone</th>
+        </tr>
+        <tr>
+            <td>
+                <p>@Model.Firstname</p>
+            </td>
+            <td>
+                <p>@Model.Lastname</p>
+            </td>
+            <td>
+                <p>@Model.Email</p>
+            </td>
+            <td>
+                <p>@Model.Gender</p>
+            </td>
+            <td>
+                <p>@Model.DoB.ToString("d")</p>
+            </td>
+            <td>
+                <p>@Model.Address</p>
+            </td>
+            <td>
+                <p>@Model.City</p>
+            </td>
+            <td>
+                <p>@Model.Country</p>
+            </td>
+            <td>
+                <p>@Model.Pc</p>
+            </td>
+            <td>
+                <p>@Model.Tel</p>
+            </td>
+            <td><a class="btn btn-outline-secondary" asp-controller="Account" asp-action="ModifyCustomerInformations" asp-route-CustomerEmail="@Model.Email">Modifier</a></td>
+        </tr>
+    </table>
+    <div class="row">
+        <div class="card col-12" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Consulter vos commandes</h5>
+                <p class="card-text">Vous pouvez consulter l'historique de vos commandes ici</p>
+                <a class="btn btn-outline-primary" asp-controller="Order" asp-action="ConsultCustomerOrders">Consulter vos commandes</a>
+            </div>
+        </div>
+    </div>
+    <a class="btn btn-primary mt-3" asp-controller="Restaurant" asp-action="ConsultRestaurant">Retour</a>
+</div>

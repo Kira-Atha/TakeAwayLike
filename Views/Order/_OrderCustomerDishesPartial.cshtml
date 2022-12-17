@@ -1,0 +1,9 @@
+﻿@model ASP_PROJECT.Models.POCO.Dish
+@using Microsoft.AspNetCore.Http
+
+<tr>
+    <td>@Model.Name</td>
+    <td>@Model.Price €</td>
+
+    <td><a class="btn btn-outline-danger btn-sm" asp-controller="Order" asp-action="DeleteDishOrdered" asp-route-dishId="@Model.Id">Supprimer du panier</a></td>
+</tr>

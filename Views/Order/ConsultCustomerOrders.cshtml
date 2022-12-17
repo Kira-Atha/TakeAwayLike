@@ -1,0 +1,41 @@
+﻿@model ASP_PROJECT.ViewModels.CustomerOrderViewModel
+
+<div>
+    @if ((string)TempData["listOrders"] != "empty")
+    {
+        <form method="post" asp-controller="Order">
+            <table class="table">
+                <tr>
+                    <th>Informations Restaurant</th>
+                    <th>Numéro de commande</th>
+                    <th>Adresse de livraison</th>
+                    <th>Date de commande</th>
+                    <th>Prix</th>
+                    <th>Note</th>
+                    <th>Détail de la commande</th>
+                    <th>Status de la commande</th>
+                </tr>
+                @foreach (var item in @Model.Customer.OrdersList)
+                {
+                    <tr>
+                        <td>
+                            <b>Nom : </b>@item.Restaurant.Name<br />
+                            <b>Contact : </b> @item.Restaurant.Tel
+                        </td>
+                        <partial name="_OrdersCustomerInformationPartial" for="@item" />
+                    </tr>
+                }
+            </table>
+        </form>
+    }
+    @if ((string)TempData["listOrders"] == "empty")
+    {
+        <div class="alert-primary p-4">
+            <p>Vous n'avez passé  aucune commande.</p>
+            <p>
+                <a class="btn btn-outline-secondary" asp-controller="Restaurant" asp-action="ConsultRestaurant">Passez votre première commande</a>
+            </p>
+        </div>
+    }
+    <a class="btn btn-primary" asp-controller="Account" asp-action="ConsultCustomerInformations">Retour</a>
+</div>

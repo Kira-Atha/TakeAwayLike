@@ -1,0 +1,39 @@
+﻿@model ASP_PROJECT.ViewModels.MenuAndDishOrderViewModel
+
+<div class="align-content-center">
+    <div class="alert alert-success p-2 mb-3">
+        <p class="font-weight-bold">Votre commande est validée.<br />
+        Merci pour votre commande chez "@Model.Order.Restaurant.Name"</p>
+    </div>
+    <div class="border p-1 mb-2">
+        <h3>Récapitulatif de votre commande :</h3>
+        <p><b>Numéro de commande :</b>  @Model.Order.Id</p>
+        <p><b>Adresse de livraison :</b> @Model.Order.DeliveryAdress</p>
+        @if (Model.ListDishOrdered.Count > 0)
+        {
+            <p><b>Plats de la commande :</b></p>
+            <ul>
+                @foreach (var dish in Model.ListDishOrdered)
+                {
+                    <li>
+                        <partial name="_OrderCustomerDishesPartial.cshtml" for="@dish" />
+                    </li>
+                }
+            </ul>
+        }
+        @if (Model.ListMenuOrdered.Count > 0)
+        {
+            <p><b>Menus de la commande :</b> </p>
+            <ul>
+                @foreach (var menu in Model.ListMenuOrdered)
+                {
+                    <li>
+                        <partial name="_OrderCustomerDishesPartial.cshtml" for="@menu" />
+                    </li>
+                }
+            </ul>
+        }
+        <p><b>Prix total de votre commande : </b>@Model.Order.TotalPrice €</p>
+    </div>
+    <a class="btn btn-primary" asp-controller="Restaurant" asp-action="ConsultRestaurant">Retour</a>
+</div>
