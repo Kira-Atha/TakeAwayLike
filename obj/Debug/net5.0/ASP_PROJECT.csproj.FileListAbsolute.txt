@@ -1,0 +1,1261 @@
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.exe
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.deps.json
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.json
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.dev.json
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.dll
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfo.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.Manifest.cache
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.xml
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\scopedcss\bundle\ASP_PROJECT.styles.css
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.input.cache
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.output.cache
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorCoreGenerate.cache
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.genruntimeconfig.cache
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CopyComplete
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddMenu.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultDishes.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\RestorerInscription.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csprojAssemblyReference.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfo.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.exe
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.deps.json
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.json
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.dev.json
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.Manifest.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.xml
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\scopedcss\bundle\ASP_PROJECT.styles.css
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.input.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.output.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorCoreGenerate.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\CustomerInscription.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\RestorerInscription.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddDish.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddMenu.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultDishes.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\Index.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyDish.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartial.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_ShowDishesMenu.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CopyComplete
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.genruntimeconfig.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfo.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.exe
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.deps.json
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.json
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.dev.json
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.Manifest.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.xml
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\scopedcss\bundle\ASP_PROJECT.styles.css
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.input.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.output.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorCoreGenerate.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\CustomerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\RestorerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddMenu.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultDishes.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_ShowDishesMenu.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CopyComplete
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.genruntimeconfig.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\ConsultRestaurant.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\ConsultRestaurant.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultMenucshtml.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\DeleteDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\SignRestaurant.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.exe
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.deps.json
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.json
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.dev.json
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csprojAssemblyReference.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfo.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.Manifest.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.xml
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\scopedcss\bundle\ASP_PROJECT.styles.css
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.input.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.output.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorCoreGenerate.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\CustomerInscription.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\RestorerInscription.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddDish.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddMenu.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultDishes.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultMenus.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultRestaurant.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\DeleteDish.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\Index.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyDish.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartial.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_ShowDishesMenu.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\Index.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\SignRestaurant.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CopyComplete
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.genruntimeconfig.cache
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfo.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.exe
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.deps.json
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.json
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.dev.json
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.dll
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.Manifest.cache
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.xml
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\scopedcss\bundle\ASP_PROJECT.styles.css
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.input.cache
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.output.cache
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorCoreGenerate.cache
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\CustomerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\RestorerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddDish.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddMenu.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultDishes.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultMenus.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\DeleteDish.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\Index.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyDish.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_MenuAndDishPartial.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_ShowDishesMenu.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\Index.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\SignRestaurant.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CopyComplete
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.genruntimeconfig.cache
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartialRestorer.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartialRestorer.cshtml.g.cs
+C:\Users\Kira\Documents\GitHub\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_MenuAndDishPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.exe
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.deps.json
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.json
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.dev.json
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.dll
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfo.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.Manifest.cache
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.xml
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\scopedcss\bundle\ASP_PROJECT.styles.css
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.input.cache
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.output.cache
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorCoreGenerate.cache
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\CustomerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\RestorerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddMenu.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultDishes.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultMenus.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\DeleteDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartialRestorer.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\SignRestaurant.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CopyComplete
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.genruntimeconfig.cache
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultRestorerInformations.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultCustomerInformations.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyRestorerAccount.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyCustomerAccount.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishesInMenuPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_MenuPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultCustomerInformations.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultRestorerInformations.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\CustomerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyCustomerAccount.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyRestorerAccount.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultMenus.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\DeleteDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishesInMenuPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartialRestorer.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_MenuPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultAllRestaurants.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\SignRestaurant.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantAllInformationPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantSummaryPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultRestaurantOrders.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultAllRestaurants.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantAllInformationPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantSummaryPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestorerRestaurants.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyMenu.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCustomerOrders.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersCustomerInformationPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersRestaurantInformationsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultCustomerInformations.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultRestorerInformations.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyCustomerAccount.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyRestorerAccount.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyMenu.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishesInMenuPartial.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_MenuPartial.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCustomerOrders.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultRestaurantOrders.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersCustomerInformationPartial.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersRestaurantInformationsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultAllRestaurants.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestorerRestaurants.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantAllInformationPartial.cshtml.g.cs
+C:\Users\simon\Desktop\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantSummaryPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCart.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestaurantMenuDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantDishesPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantMenusPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Inscription.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Inscription.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyMenu.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCart.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCustomerOrders.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultRestaurantOrders.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersCustomerInformationPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersRestaurantInformationsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestaurantMenuDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestorerRestaurants.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantDishesPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantMenusPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\PROJET\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_AddingDishesPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.exe
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.deps.json
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.json
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.dev.json
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfo.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.Manifest.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.xml
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\scopedcss\bundle\ASP_PROJECT.styles.css
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.input.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.output.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorCoreGenerate.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultCustomerInformations.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultRestorerInformations.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\CustomerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Inscription.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyCustomerAccount.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyRestorerAccount.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\RestorerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddMenu.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultDishes.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultMenus.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\DeleteDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyMenu.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_AddingDishesPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishesInMenuPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartialRestorer.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_MenuPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_ShowDishesMenu.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCart.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCustomerOrders.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultRestaurantOrders.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersCustomerInformationPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersRestaurantInformationsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultAllRestaurants.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestaurantMenuDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestorerRestaurants.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\SignRestaurant.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantAllInformationPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantDishesPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantMenusPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantSummaryPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CopyComplete
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.genruntimeconfig.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ResumeOrder.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfo.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.exe
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.deps.json
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.json
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.dev.json
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.Manifest.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.xml
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\scopedcss\bundle\ASP_PROJECT.styles.css
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.input.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.output.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorCoreGenerate.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultCustomerInformations.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultRestorerInformations.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\CustomerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Inscription.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyCustomerAccount.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyRestorerAccount.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\RestorerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddMenu.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultDishes.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultMenus.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\DeleteDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyMenu.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_AddingDishesPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishesInMenuPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartialRestorer.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_MenuPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_ShowDishesMenu.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCart.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCustomerOrders.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultRestaurantOrders.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ResumeOrder.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersCustomerInformationPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersRestaurantInformationsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultAllRestaurants.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestaurantMenuDish.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestorerRestaurants.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\Index.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\SignRestaurant.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantAllInformationPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantDishesPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantMenusPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantSummaryPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CopyComplete
+C:\Users\simon\Desktop\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.genruntimeconfig.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.exe
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.deps.json
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.json
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.dev.json
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfo.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.Manifest.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.xml
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\scopedcss\bundle\ASP_PROJECT.styles.css
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.input.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.output.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorCoreGenerate.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultCustomerInformations.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultRestorerInformations.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\CustomerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Inscription.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyCustomerAccount.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyRestorerAccount.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\RestorerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddDish.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddMenu.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultDishes.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultMenus.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\DeleteDish.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\Index.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyDish.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyMenu.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_AddingDishesPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishesInMenuPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartialRestorer.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_MenuPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_ShowDishesMenu.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCart.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCustomerOrders.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultRestaurantOrders.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ResumeOrder.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersCustomerInformationPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersRestaurantInformationsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultAllRestaurants.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestaurantMenuDish.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestorerRestaurants.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\Index.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\SignRestaurant.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantAllInformationPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantDishesPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantMenusPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantSummaryPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CopyComplete
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.genruntimeconfig.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\commun\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\UpdateOrderStatus.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.exe
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.deps.json
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.json
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.dev.json
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfo.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.Manifest.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.xml
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\scopedcss\bundle\ASP_PROJECT.styles.css
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.input.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.output.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorCoreGenerate.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultCustomerInformations.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultRestorerInformations.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\CustomerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Inscription.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyCustomerAccount.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyRestorerAccount.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\RestorerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddDish.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddMenu.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultDishes.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultMenus.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\DeleteDish.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\Index.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyDish.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyMenu.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_AddingDishesPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishesInMenuPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartialRestorer.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_MenuPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_ShowDishesMenu.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCart.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCustomerOrders.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultRestaurantOrders.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ResumeOrder.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\UpdateOrderStatus.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersCustomerInformationPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersRestaurantInformationsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultAllRestaurants.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestaurantMenuDish.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestorerRestaurants.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\Index.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\SignRestaurant.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantAllInformationPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantDishesPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantMenusPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantSummaryPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CopyComplete
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\prj\ASP_Project_2021\Réunion 10\ASP_PROJECT_refact\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.genruntimeconfig.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.exe
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.deps.json
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.json
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.dev.json
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfo.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.Manifest.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.xml
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\scopedcss\bundle\ASP_PROJECT.styles.css
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.input.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.output.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorCoreGenerate.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultCustomerInformations.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultRestorerInformations.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\CustomerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Inscription.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyCustomerAccount.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyRestorerAccount.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\RestorerInscription.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddDish.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddMenu.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultDishes.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultMenus.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyDish.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyMenu.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_AddingDishesPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishesInMenuPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartialRestorer.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_MenuPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_ShowDishesMenu.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCart.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCustomerOrders.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultRestaurantOrders.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ResumeOrder.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\UpdateOrderStatus.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersCustomerInformationPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersRestaurantInformationsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultAllRestaurants.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestaurantMenuDish.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestorerRestaurants.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\SignRestaurant.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantAllInformationPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantDishesPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantMenusPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantSummaryPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CopyComplete
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\simon\Desktop\prj\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.genruntimeconfig.cache
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.exe
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.deps.json
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.json
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.dev.json
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.dll
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.AssemblyReference.cache
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfo.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.Manifest.cache
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.xml
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\scopedcss\bundle\ASP_PROJECT.styles.css
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.input.cache
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.output.cache
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorCoreGenerate.cache
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultCustomerInformations.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultRestorerInformations.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\CustomerInscription.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Inscription.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyCustomerAccount.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyRestorerAccount.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\RestorerInscription.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddDish.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddMenu.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultDishes.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultMenus.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyDish.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyMenu.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_AddingDishesPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishesInMenuPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartialRestorer.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_MenuPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_ShowDishesMenu.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCart.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCustomerOrders.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultRestaurantOrders.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ResumeOrder.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\UpdateOrderStatus.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersCustomerInformationPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersRestaurantInformationsPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultAllRestaurants.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestaurantMenuDish.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestorerRestaurants.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\SignRestaurant.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantAllInformationPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantDishesPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantMenusPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantSummaryPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CopyComplete
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\Kira\Desktop\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.genruntimeconfig.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.exe
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.deps.json
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.json
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.dev.json
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.AssemblyReference.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfo.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.Manifest.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.xml
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\scopedcss\bundle\ASP_PROJECT.styles.css
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.input.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.output.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorCoreGenerate.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultCustomerInformations.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultRestorerInformations.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\CustomerInscription.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Inscription.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyCustomerAccount.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyRestorerAccount.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\RestorerInscription.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddDish.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\AddMenu.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultDishes.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ConsultMenus.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyDish.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\ModifyMenu.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_AddingDishesPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishesInMenuPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartialRestorer.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_MenuPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_ShowDishesMenu.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCart.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCustomerOrders.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultRestaurantOrders.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ResumeOrder.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\UpdateOrderStatus.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersCustomerInformationPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersRestaurantInformationsPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultAllRestaurants.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestaurantMenuDish.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestorerRestaurants.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\SignRestaurant.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantAllInformationPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantDishesPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantMenusPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantSummaryPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CopyComplete
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_Project_2021\FINAL\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.genruntimeconfig.cache
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.exe
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.deps.json
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.json
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.dev.json
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.dll
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.AssemblyReference.cache
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfo.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.Manifest.cache
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.xml
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\scopedcss\bundle\ASP_PROJECT.styles.css
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.input.cache
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.output.cache
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorCoreGenerate.cache
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultCustomerInformations.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultRestorerInformations.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\CustomerInscription.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Inscription.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyCustomerAccount.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyRestorerAccount.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\RestorerInscription.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_AddingDishesPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishesInMenuPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartialRestorer.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_MenuPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCart.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCustomerOrders.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultRestaurantOrders.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ResumeOrder.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\UpdateOrderStatus.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersCustomerInformationPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersRestaurantInformationsPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultAllRestaurants.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestaurantMenuDish.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestorerRestaurants.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\SignRestaurant.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantAllInformationPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantDishesPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantMenusPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantSummaryPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CopyComplete
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.genruntimeconfig.cache
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrderCustomerDishesPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrderCustomerMenusPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\Add.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\Update.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.exe
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.deps.json
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.json
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.dev.json
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.dll
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.AssemblyReference.cache
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfo.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.Manifest.cache
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.xml
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\scopedcss\bundle\ASP_PROJECT.styles.css
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.input.cache
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.output.cache
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorCoreGenerate.cache
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultCustomerInformations.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultRestorerInformations.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\CustomerInscription.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Inscription.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyCustomerAccount.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyRestorerAccount.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\RestorerInscription.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\Add.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\Update.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_AddingDishesPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishesInMenuPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartialRestorer.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_MenuPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCart.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCustomerOrders.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultRestaurantOrders.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ResumeOrder.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\UpdateOrderStatus.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrderCustomerDishesPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrderCustomerMenusPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersCustomerInformationPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersRestaurantInformationsPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultAllRestaurants.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestaurantMenuDish.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestorerRestaurants.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\SignRestaurant.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantAllInformationPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantDishesPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantMenusPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantSummaryPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CopyComplete
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\Kira\Desktop\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.genruntimeconfig.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.exe
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.deps.json
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.json
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.runtimeconfig.dev.json
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.AssemblyReference.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.AssemblyInfo.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorAssemblyInfo.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.Manifest.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\staticwebassets\ASP_PROJECT.StaticWebAssets.xml
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\scopedcss\bundle\ASP_PROJECT.styles.css
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.input.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.TagHelpers.output.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorCoreGenerate.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultCustomerInformations.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ConsultRestorerInformations.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\CustomerInscription.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Inscription.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyCustomerAccount.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\ModifyRestorerAccount.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Account\RestorerInscription.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\Add.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\Update.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_AddingDishesPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishesInMenuPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_DishPartialRestorer.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Menu\_MenuPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCart.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultCustomerOrders.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ConsultRestaurantOrders.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\ResumeOrder.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\UpdateOrderStatus.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrderCustomerDishesPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrderCustomerMenusPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersCustomerInformationPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Order\_OrdersRestaurantInformationsPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultAllRestaurants.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestaurantMenuDish.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\ConsultRestorerRestaurants.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\SignRestaurant.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantAllInformationPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantDishesPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantMenusPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Restaurant\_RestaurantSummaryPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.RazorTargetAssemblyInfo.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.Views.pdb
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.csproj.CopyComplete
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ref\ASP_PROJECT.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.pdb
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Technologies Internet II ( ASP )\ASP_AOUT\HUYGEBAERT-AOÛT2021\ASP_PROJECT\ASP_PROJECT\obj\Debug\net5.0\ASP_PROJECT.genruntimeconfig.cache
